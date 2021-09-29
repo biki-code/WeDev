@@ -1,0 +1,12 @@
+index.html
+script.js
+style.css
+
+1. A way to input new toDos -> input element of type "text" with an id
+2. A reference to append children elements to -> <ul> with an id
+3. A button to append this new child element to the parent when clicked
+4. get the value of the input box and create a new <li> element and append to the parent <ul>
+
+Assignment
+study javascript createElement() method
+If you have extra time, start to read the bootstrap documentation

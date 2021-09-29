@@ -1,0 +1,11 @@
+Steps to make a very basic to-do app
+
+#html file steps
+- We need create input element to take inputs.
+- We need to create button to trigger a javascript function when clicked.
+- We need to create div element to append our values to its innerHTML.
+
+#javascript
+- Get the value from inputs.
+- Assign the value from input to the innerHTML of div
+- i will do great things in now

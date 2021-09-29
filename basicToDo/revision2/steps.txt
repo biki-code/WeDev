@@ -1,0 +1,3 @@
+an input element with an id for new todos
+a refence to append children element -> ul element
+a button to append when it is clicked (onClick event triggered)

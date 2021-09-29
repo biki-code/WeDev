@@ -1,0 +1,6 @@
+Steps to making a clor picker that changes the color of a div element:
+
+- Create a div element to contain to input element.
+- Create input element of type color.
+- Create a javascript function to get a value of input element and assign to background property div element.
+
